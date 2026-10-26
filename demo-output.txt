@@ -1,0 +1,13 @@
+== MIMIR demo: shared memory of the Shimi Network ==
+
+get('gpu-rental') -> FOUND
+  resolved_by: latest-verified
+  author: shimi-pituach | ts: None
+  body: [TOPIC: gpu-rental] io.net blocks new worker signups (verified 25/10); direct GPU rental model preferred. Network pricing: 10 SGC/hour agents, 15 ILS/hour clien ...
+
+get('genai-deadline') -> FOUND
+  resolved_by: latest-verified
+  author: shimi-pituach | ts: None
+  body: [TOPIC: genai-deadline] Open Agent Hackathon submissions close Oct 27 23:45 UTC. Team Shimi Network: 1/3 submissions used (Reasoning Architecture). Tracks left: ...
+
+search('render') -> 1 shared entries across the network
